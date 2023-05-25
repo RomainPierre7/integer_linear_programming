@@ -1,0 +1,447 @@
+---------- Instances_ULS/Instance21.1.txt ----------
+Valeur de la relaxation linéaire calculée : 13068.0
+Status de la résolution: OPTIMAL
+Valeur de la fonction objectif de la solution calculée : 13068.0
+Écart % avec la relaxation linéaire : 0.0%
+Mois de production :
+1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+Quantités produites :
+206 0 0 0 0 0 0 0 322 0 0 0 0 0 0 0 0 0 0 0 0 
+Quantités stockées :
+176 151 136 89 55 45 30 0 297 282 235 201 191 176 146 121 106 59 25 15 0 
+Nombre de noeuds : 70
+Temps de résolution: 0.49501203799809446s
+
+---------- Instances_ULS/Instance60.1.txt ----------
+Valeur de la relaxation linéaire calculée : 29739.0
+Status de la résolution: OPTIMAL
+Valeur de la fonction objectif de la solution calculée : 29739.0
+Écart % avec la relaxation linéaire : 0.0%
+Mois de production :
+1 0 0 0 0 1 0 0 1 0 0 1 0 0 0 0 1 0 1 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 1 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 
+Quantités produites :
+135 0 0 0 0 72 0 0 85 0 0 128 0 0 0 0 76 0 63 0 0 115 0 0 0 0 110 0 0 0 144 0 0 0 0 71 0 108 0 0 115 0 0 0 112 0 0 0 0 103 0 0 0 76 0 0 0 62 0 0 
+Quantités stockées :
+130 92 66 19 0 39 36 0 51 32 0 84 58 25 13 0 38 0 18 14 0 70 56 30 12 0 86 44 2 0 94 60 22 19 0 47 0 61 16 0 80 62 49 0 98 67 59 22 0 54 17 5 0 51 26 23 0 36 15 0 
+Nombre de noeuds : 239980
+Temps de résolution: 52.35677214899988s
+
+---------- Instances_ULS/Instance60.2.txt ----------
+Valeur de la relaxation linéaire calculée : 27572.0
+Status de la résolution: OPTIMAL
+Valeur de la fonction objectif de la solution calculée : 27618.0
+Écart % avec la relaxation linéaire : 0.16683592049905702%
+Mois de production :
+1 0 0 0 0 1 0 0 0 1 0 1 0 0 1 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 1 0 0 0 1 0 0 1 0 1 0 0 0 1 0 1 0 0 1 0 
+Quantités produites :
+105 0 0 0 0 118 0 0 0 66 0 82 0 0 56 0 0 129 0 0 102 0 0 0 103 0 0 145 0 0 0 0 0 93 0 0 0 77 0 0 70 0 0 0 96 0 0 84 0 112 0 0 0 55 0 70 0 0 41 0 
+Quantités stockées :
+85 70 29 26 0 75 42 4 1 18 0 40 25 0 43 17 0 81 38 0 58 18 13 0 54 6 0 96 69 60 36 1 0 56 31 3 0 50 45 0 68 41 8 1 64 37 0 38 0 86 46 14 1 7 0 46 2 0 22 0 
+Nombre de noeuds : 182
+Temps de résolution: 1.843233854000573s
+
+---------- Instances_ULS/Instance60.3.txt ----------
+Valeur de la relaxation linéaire calculée : 34081.0
+Status de la résolution: TEMPS LIMITE et SOLUTION REALISABLE CALCULEE
+Valeur de la fonction objectif de la solution calculée : 34081.0
+Écart % avec la relaxation linéaire : 0.0%
+Mois de production :
+1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 
+Quantités produites :
+167 0 0 0 0 0 0 0 199 0 0 0 0 0 89 0 0 0 0 62 0 0 0 0 101 0 0 0 143 0 0 0 0 130 0 0 0 114 0 0 105 0 0 0 111 0 0 0 0 117 0 0 0 123 0 0 0 0 50 0 
+Quantités stockées :
+139 101 72 69 20 18 7 0 150 105 58 18 10 0 48 43 6 5 0 27 26 17 13 0 87 50 14 0 119 92 84 36 0 104 64 23 0 85 37 0 63 55 40 0 70 68 35 25 0 92 72 24 0 88 59 43 13 0 39 0 
+Nombre de noeuds : 3565253
+Temps de résolution: 180.2827646730002s
+
+---------- Instances_ULS/Instance60.4.txt ----------
+Valeur de la relaxation linéaire calculée : 31131.0
+Status de la résolution: OPTIMAL
+Valeur de la fonction objectif de la solution calculée : 31131.0
+Écart % avec la relaxation linéaire : 0.0%
+Mois de production :
+1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 
+Quantités produites :
+175 0 0 0 0 0 152 0 0 0 0 0 0 109 0 0 0 117 0 0 0 173 0 0 0 0 0 84 0 0 0 0 0 114 0 0 0 0 0 0 155 0 0 0 100 0 0 0 131 0 0 0 0 106 0 0 0 78 0 0 
+Quantités stockées :
+148 112 78 51 33 0 122 89 62 47 15 2 0 61 24 23 0 68 32 30 0 136 89 56 19 5 0 37 10 7 6 5 0 74 63 54 16 10 4 0 128 95 47 0 74 29 25 0 86 36 24 22 0 88 62 15 0 32 28 0 
+Nombre de noeuds : 22046
+Temps de résolution: 22.988616927003022s
+
+---------- Instances_ULS/Instance60.5.txt ----------
+Valeur de la relaxation linéaire calculée : 35693.0
+Status de la résolution: TEMPS LIMITE et SOLUTION REALISABLE CALCULEE
+Valeur de la fonction objectif de la solution calculée : 35693.0
+Écart % avec la relaxation linéaire : 0.0%
+Mois de production :
+1 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 
+Quantités produites :
+213 0 0 0 0 0 125 0 0 0 0 119 0 0 0 0 0 116 0 0 0 136 0 0 0 0 0 140 0 0 0 0 0 134 0 0 0 0 151 0 0 0 0 0 118 0 0 0 0 151 0 0 0 0 0 104 0 0 0 0 
+Quantités stockées :
+179 133 87 49 17 0 100 67 59 13 0 78 65 56 44 28 0 69 35 4 0 97 78 74 45 23 0 108 99 57 45 23 0 97 79 32 13 0 111 81 55 37 2 0 70 55 31 19 0 111 104 72 54 32 0 76 59 38 10 0 
+Nombre de noeuds : 1931188
+Temps de résolution: 180.25791143199967s
+
+---------- Instances_ULS/Instance60.6.txt ----------
+Valeur de la relaxation linéaire calculée : 25186.0
+Status de la résolution: OPTIMAL
+Valeur de la fonction objectif de la solution calculée : 25186.0
+Écart % avec la relaxation linéaire : 0.0%
+Mois de production :
+1 0 0 0 1 0 1 0 0 0 1 0 0 0 0 1 0 0 1 0 0 1 0 0 1 0 1 0 1 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 1 0 0 1 0 1 0 0 0 0 1 0 0 1 0 0 
+Quantités produites :
+80 0 0 0 49 0 111 0 0 0 94 0 0 0 0 87 0 0 71 0 0 78 0 0 53 0 78 0 115 0 0 0 64 0 0 99 0 0 0 0 119 0 0 0 71 0 0 48 0 99 0 0 0 0 73 0 0 83 0 0 
+Quantités stockées :
+57 49 28 0 22 0 66 51 6 0 54 38 28 4 0 60 21 0 56 25 0 49 43 0 4 0 32 0 95 49 15 0 43 25 0 49 19 18 8 0 71 56 32 0 49 32 0 9 0 73 68 22 7 0 35 18 0 44 21 0 
+Nombre de noeuds : 351
+Temps de résolution: 5.7042235959997925s
+
+---------- Instances_ULS/Instance60.7.txt ----------
+Valeur de la relaxation linéaire calculée : 30867.0
+Status de la résolution: OPTIMAL
+Valeur de la fonction objectif de la solution calculée : 30853.0
+Écart % avec la relaxation linéaire : -0.045355881685942914%
+Mois de production :
+1 0 0 0 0 1 0 0 1 0 0 1 0 1 0 0 0 0 1 0 0 1 0 0 0 0 1 0 1 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 
+Quantités produites :
+113 0 0 0 0 115 0 0 72 0 0 63 0 123 0 0 0 0 71 0 0 154 0 0 0 0 66 0 105 0 0 0 73 0 0 0 0 63 0 0 138 0 0 0 115 0 0 0 127 0 0 0 0 156 0 0 0 0 0 0 
+Quantités stockées :
+92 60 37 3 0 68 34 0 27 17 0 18 0 77 31 23 15 0 52 26 0 127 91 56 31 0 20 0 76 36 17 0 40 37 16 13 0 46 26 0 95 54 42 0 74 54 25 0 83 51 37 20 0 116 82 59 31 19 15 0 
+Nombre de noeuds : 472280
+Temps de résolution: 97.41565749000074s
+
+---------- Instances_ULS/Instance60.8.txt ----------
+Valeur de la relaxation linéaire calculée : 27962.0
+Status de la résolution: OPTIMAL
+Valeur de la fonction objectif de la solution calculée : 27962.0
+Écart % avec la relaxation linéaire : 0.0%
+Mois de production :
+1 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 
+Quantités produites :
+175 0 0 0 0 0 72 0 0 0 110 0 0 0 99 0 0 0 112 0 0 0 0 0 69 0 0 0 179 0 0 0 0 0 0 98 0 0 0 0 124 0 0 0 120 0 0 0 0 93 0 0 0 64 0 0 0 79 0 0 
+Quantités stockées :
+172 126 77 55 18 0 56 26 9 0 66 58 27 0 63 60 21 0 83 58 20 8 3 0 60 19 5 0 134 89 43 42 31 12 0 70 53 46 36 0 79 75 32 0 76 74 26 2 0 43 32 20 0 38 16 5 0 50 38 0 
+Nombre de noeuds : 81262
+Temps de résolution: 34.1796275859997s
+
+---------- Instances_ULS/Instance60.9.txt ----------
+Valeur de la relaxation linéaire calculée : 35527.0
+Status de la résolution: TEMPS LIMITE et SOLUTION REALISABLE CALCULEE
+Valeur de la fonction objectif de la solution calculée : 35492.0
+Écart % avec la relaxation linéaire : -0.09851662116137022%
+Mois de production :
+1 0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 
+Quantités produites :
+146 0 0 0 0 0 0 106 0 0 113 0 0 0 102 0 0 106 0 0 0 193 0 0 0 0 0 175 0 0 0 0 133 0 0 0 0 89 0 0 98 0 0 0 74 0 0 0 149 0 0 0 0 0 91 0 0 83 0 0 
+Quantités stockées :
+125 84 68 57 39 2 0 60 37 0 65 44 19 0 68 45 0 72 53 9 0 162 124 86 42 15 0 132 108 77 33 0 106 65 26 4 0 49 25 0 86 53 23 0 51 18 7 0 101 94 44 38 3 0 48 23 0 52 42 0 
+Nombre de noeuds : 166903
+Temps de résolution: 180.16037636400142s
+
+---------- Instances_ULS/Instance60.10.txt ----------
+Valeur de la relaxation linéaire calculée : 31809.0
+Status de la résolution: OPTIMAL
+Valeur de la fonction objectif de la solution calculée : 31809.0
+Écart % avec la relaxation linéaire : 0.0%
+Mois de production :
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 1 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 
+Quantités produites :
+112 0 0 0 0 114 0 0 0 0 103 0 0 0 0 0 0 75 0 0 104 0 0 0 91 0 0 145 0 0 0 0 0 137 0 0 0 0 87 0 90 0 0 0 145 0 0 0 0 114 0 0 0 115 0 0 0 112 0 0 
+Quantités stockées :
+70 53 45 27 0 70 60 36 13 0 72 63 37 22 17 1 0 42 18 0 68 32 28 0 48 33 0 104 93 62 43 16 0 88 48 21 14 0 42 0 53 45 8 0 101 59 26 2 0 68 54 15 0 80 70 34 0 62 30 0 
+Nombre de noeuds : 222034
+Temps de résolution: 70.66049096200004s
+
+---------- Instances_ULS/Instance90.1.txt ----------
+Valeur de la relaxation linéaire calculée : 51412.0
+Status de la résolution: TEMPS LIMITE et SOLUTION REALISABLE CALCULEE
+Valeur de la fonction objectif de la solution calculée : 50943.0
+Écart % avec la relaxation linéaire : -0.912238387924998%
+Mois de production :
+1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 
+Quantités produites :
+171 0 0 0 0 0 0 121 0 0 0 128 0 0 0 0 139 0 0 0 0 115 0 0 0 0 110 0 0 0 144 0 0 0 0 179 0 0 0 0 115 0 0 0 112 0 0 0 0 103 0 0 0 102 0 0 0 0 147 0 0 0 0 145 0 0 0 0 141 0 0 0 0 75 0 0 95 0 0 0 148 0 0 0 0 0 94 0 0 0 
+Quantités stockées :
+166 128 102 55 36 3 0 85 51 32 0 84 58 25 13 0 101 63 18 14 0 70 56 30 12 0 86 44 2 0 94 60 22 19 0 155 108 61 16 0 80 62 49 0 98 67 59 22 0 54 17 5 0 77 52 49 26 0 126 111 65 26 0 118 89 55 9 0 97 56 31 2 0 62 26 0 50 13 2 0 106 78 38 35 1 0 82 52 21 0 
+Nombre de noeuds : 180179
+Temps de résolution: 180.3887313439991s
+
+---------- Instances_ULS/Instance90.2.txt ----------
+Valeur de la relaxation linéaire calculée : 46696.0
+Status de la résolution: TEMPS LIMITE et SOLUTION REALISABLE CALCULEE
+Valeur de la fonction objectif de la solution calculée : 46667.0
+Écart % avec la relaxation linéaire : -0.062103820455713554%
+Mois de production :
+1 0 0 0 0 1 0 0 1 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 1 0 0 0 1 0 0 1 0 1 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 1 0 0 0 1 0 0 
+Quantités produites :
+105 0 0 0 0 114 0 0 70 0 0 138 0 0 0 0 0 129 0 0 102 0 0 0 103 0 0 145 0 0 0 0 0 93 0 0 0 77 0 0 69 0 0 0 97 0 0 84 0 111 0 0 0 126 0 0 0 0 44 0 0 112 0 0 0 69 0 137 0 0 0 127 0 0 0 0 93 0 0 0 80 0 0 72 0 0 0 95 0 0 
+Quantités stockées :
+85 70 29 26 0 71 38 0 67 18 0 96 81 56 43 17 0 81 38 0 58 18 13 0 54 6 0 96 69 60 36 1 0 56 31 3 0 50 45 0 67 40 7 0 64 37 0 38 0 85 45 13 0 77 70 46 2 0 25 3 0 65 42 24 0 27 0 87 53 30 0 85 35 10 7 0 66 20 13 0 39 5 0 59 18 15 0 59 18 0 
+Nombre de noeuds : 2128706
+Temps de résolution: 180.2596335800008s
+
+---------- Instances_ULS/Instance90.3.txt ----------
+Valeur de la relaxation linéaire calculée : 57997.0
+Status de la résolution: TEMPS LIMITE et SOLUTION REALISABLE CALCULEE
+Valeur de la fonction objectif de la solution calculée : 58004.0
+Écart % avec la relaxation linéaire : 0.012069589806369295%
+Mois de production :
+1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 
+Quantités produites :
+167 0 0 0 0 0 0 0 199 0 0 0 0 0 151 0 0 0 0 0 0 0 0 0 101 0 0 0 143 0 0 0 0 159 0 0 0 0 150 0 0 0 0 126 0 0 0 0 142 0 0 0 0 123 0 0 0 0 142 0 0 0 0 0 94 0 0 0 105 0 0 0 0 0 83 0 0 158 0 0 0 0 0 172 0 0 0 0 0 0 
+Quantités stockées :
+139 101 72 69 20 18 7 0 150 105 58 18 10 0 110 105 68 67 62 27 26 17 13 0 87 50 14 0 119 92 84 36 0 133 93 52 29 0 102 65 23 15 0 86 45 43 10 0 117 92 72 24 0 88 59 43 13 0 131 92 48 26 12 0 63 23 3 0 96 54 44 11 3 0 35 8 0 114 89 50 37 14 0 146 100 92 85 49 30 0 
+Nombre de noeuds : 2539539
+Temps de résolution: 181.05820373800088s
+
+---------- Instances_ULS/Instance90.4.txt ----------
+Valeur de la relaxation linéaire calculée : 54493.0
+Status de la résolution: TEMPS LIMITE et SOLUTION REALISABLE CALCULEE
+Valeur de la fonction objectif de la solution calculée : 54320.0
+Écart % avec la relaxation linéaire : -0.31747196887673645%
+Mois de production :
+1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 
+Quantités produites :
+175 0 0 0 0 0 152 0 0 0 0 0 0 109 0 0 0 117 0 0 0 173 0 0 0 0 0 79 0 0 0 0 119 0 0 0 0 0 0 0 155 0 0 0 100 0 0 0 175 0 0 0 0 0 0 143 0 0 0 0 0 179 0 0 0 0 0 137 0 0 0 0 0 100 0 0 186 0 0 0 0 0 0 110 0 0 0 0 0 0 
+Quantités stockées :
+148 112 78 51 33 0 122 89 62 47 15 2 0 61 24 23 0 68 32 30 0 136 89 56 19 5 0 32 5 2 1 0 114 74 63 54 16 10 4 0 128 95 47 0 74 29 25 0 130 80 68 66 44 26 0 96 81 35 31 3 0 135 119 79 36 5 0 101 70 63 47 33 0 51 31 0 136 104 80 61 18 11 0 100 58 51 46 30 5 0 
+Nombre de noeuds : 966610
+Temps de résolution: 180.39958410200052s
+
+---------- Instances_ULS/Instance90.5.txt ----------
+Valeur de la relaxation linéaire calculée : 64643.0
+Status de la résolution: TEMPS LIMITE et SOLUTION REALISABLE CALCULEE
+Valeur de la fonction objectif de la solution calculée : 65298.0
+Écart % avec la relaxation linéaire : 1.0132574292653498%
+Mois de production :
+1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 
+Quantités produites :
+279 0 0 0 0 0 0 0 0 150 0 0 0 0 0 0 144 0 0 0 0 168 0 0 0 0 0 0 163 0 0 0 0 0 0 230 0 0 0 0 0 0 0 0 215 0 0 0 0 0 0 0 0 120 0 0 0 0 139 0 0 0 0 107 0 0 0 112 0 0 0 126 0 0 0 0 191 0 0 0 0 0 0 168 0 0 0 0 0 0 
+Quantités stockées :
+245 199 153 115 83 66 41 8 0 104 91 50 37 28 16 0 116 69 35 4 0 129 110 106 77 55 32 0 154 112 100 78 55 18 0 183 164 151 111 81 55 37 2 0 167 152 128 116 97 57 50 18 0 98 66 38 21 0 111 101 59 13 0 64 56 18 0 64 30 4 0 103 53 33 25 0 154 138 121 87 48 40 0 141 114 87 53 36 3 0 
+Nombre de noeuds : 1795344
+Temps de résolution: 180.6219252230003s
+
+---------- Instances_ULS/Instance90.6.txt ----------
+Valeur de la relaxation linéaire calculée : 42308.0
+Status de la résolution: TEMPS LIMITE et SOLUTION REALISABLE CALCULEE
+Valeur de la fonction objectif de la solution calculée : 41941.0
+Écart % avec la relaxation linéaire : -0.8674482367400964%
+Mois de production :
+1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 1 0 0 1 0 0 0 0 1 0 1 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 0 
+Quantités produites :
+129 0 0 0 0 0 111 0 0 0 94 0 0 0 0 87 0 0 71 0 0 131 0 0 0 0 78 0 115 0 0 0 64 0 0 99 0 0 0 0 119 0 0 0 119 0 0 0 0 99 0 0 0 0 73 0 0 112 0 0 0 0 136 0 0 0 0 80 0 0 0 126 0 0 0 0 65 0 0 86 0 0 0 70 0 0 87 0 0 0 
+Quantités stockées :
+106 98 77 49 22 0 66 51 6 0 54 38 28 4 0 60 21 0 56 25 0 102 96 53 4 0 32 0 95 49 15 0 43 25 0 49 19 18 8 0 71 56 32 0 97 80 48 9 0 73 68 22 7 0 35 18 0 73 50 29 20 0 105 77 31 27 0 61 58 48 0 96 75 35 10 0 49 47 0 69 38 1 0 24 14 0 60 10 5 0 
+Nombre de noeuds : 3180930
+Temps de résolution: 180.24157072399976s
+
+---------- Instances_ULS/Instance90.7.txt ----------
+Valeur de la relaxation linéaire calculée : 55069.0
+Status de la résolution: TEMPS LIMITE et SOLUTION REALISABLE CALCULEE
+Valeur de la fonction objectif de la solution calculée : 54913.0
+Écart % avec la relaxation linéaire : -0.28328097477709785%
+Mois de production :
+1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 
+Quantités produites :
+113 0 0 0 0 187 0 0 0 0 0 186 0 0 0 0 0 0 71 0 0 154 0 0 0 0 66 0 165 0 0 0 0 0 0 0 76 0 0 0 138 0 0 0 115 0 0 0 127 0 0 0 0 181 0 0 0 0 0 0 0 0 174 0 0 0 0 0 118 0 0 171 0 0 0 0 0 165 0 0 0 0 0 85 0 0 123 0 0 0 
+Quantités stockées :
+92 60 37 3 0 140 106 72 27 17 0 141 123 77 31 23 15 0 52 26 0 127 91 56 31 0 20 0 136 96 77 60 27 24 3 0 63 46 26 0 95 54 42 0 74 54 25 0 83 51 37 20 0 141 107 84 56 44 40 25 4 0 136 101 57 25 18 0 71 44 0 140 108 96 51 19 0 141 95 89 45 1 0 57 45 0 78 44 9 0 
+Nombre de noeuds : 1904801
+Temps de résolution: 180.34455228200022s
+
+---------- Instances_ULS/Instance90.8.txt ----------
+Valeur de la relaxation linéaire calculée : 49611.0
+Status de la résolution: TEMPS LIMITE et SOLUTION REALISABLE CALCULEE
+Valeur de la fonction objectif de la solution calculée : 49099.0
+Écart % avec la relaxation linéaire : -1.032029187075447%
+Mois de production :
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 
+Quantités produites :
+157 0 0 0 0 90 0 0 0 0 110 0 0 0 99 0 0 0 112 0 0 0 0 0 69 0 0 0 179 0 0 0 0 0 0 98 0 0 0 0 124 0 0 0 120 0 0 0 0 93 0 0 0 93 0 0 0 0 113 0 0 0 0 126 0 0 0 97 0 0 0 0 0 77 0 0 96 0 0 0 144 0 0 0 0 0 113 0 0 0 
+Quantités stockées :
+154 108 59 37 0 72 56 26 9 0 66 58 27 0 63 60 21 0 83 58 20 8 3 0 60 19 5 0 134 89 43 42 31 12 0 70 53 46 36 0 79 75 32 0 76 74 26 2 0 43 32 20 0 67 45 34 29 0 101 63 56 25 0 83 43 29 0 60 57 34 26 15 0 63 49 0 56 42 6 0 94 92 70 46 25 0 76 27 16 0 
+Nombre de noeuds : 3368636
+Temps de résolution: 180.47908669900062s
+
+---------- Instances_ULS/Instance90.9.txt ----------
+Valeur de la relaxation linéaire calculée : 59971.0
+Status de la résolution: TEMPS LIMITE et SOLUTION REALISABLE CALCULEE
+Valeur de la fonction objectif de la solution calculée : 59461.0
+Écart % avec la relaxation linéaire : -0.8504110319987994%
+Mois de production :
+1 0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 
+Quantités produites :
+146 0 0 0 0 0 0 106 0 0 113 0 0 0 208 0 0 0 0 0 0 193 0 0 0 0 0 175 0 0 0 0 133 0 0 0 0 89 0 0 172 0 0 0 0 0 0 0 149 0 0 0 0 0 122 0 0 0 93 0 0 0 122 0 0 0 0 90 0 0 0 201 0 0 0 0 0 0 0 0 0 126 0 0 0 0 112 0 0 0 
+Quantités stockées :
+125 84 68 57 39 2 0 60 37 0 65 44 19 0 174 151 106 72 53 9 0 162 124 86 42 15 0 132 108 77 33 0 106 65 26 4 0 49 25 0 160 127 97 74 51 18 7 0 101 94 44 38 3 0 79 54 31 0 83 41 32 0 85 70 44 38 0 67 38 29 0 171 130 119 77 46 45 31 24 9 0 89 70 63 22 0 91 67 43 0 
+Nombre de noeuds : 3588379
+Temps de résolution: 180.56668252900272s
+
+---------- Instances_ULS/Instance90.10.txt ----------
+Valeur de la relaxation linéaire calculée : 56805.0
+Status de la résolution: TEMPS LIMITE et SOLUTION REALISABLE CALCULEE
+Valeur de la fonction objectif de la solution calculée : 57519.0
+Écart % avec la relaxation linéaire : 1.2569316081330868%
+Mois de production :
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 
+Quantités produites :
+112 0 0 0 0 114 0 0 0 0 86 0 0 0 0 92 0 0 0 0 162 0 0 0 0 0 178 0 0 0 0 0 0 182 0 0 0 0 0 132 0 0 0 0 145 0 0 0 0 159 0 0 0 0 0 120 0 0 117 0 0 0 154 0 0 0 0 0 0 105 0 0 0 129 0 0 0 167 0 0 0 0 0 130 0 0 0 0 88 0 
+Quantités stockées :
+70 53 45 27 0 70 60 36 13 0 55 46 20 5 0 76 75 42 18 0 126 90 86 58 15 0 145 104 93 62 43 16 0 133 93 66 59 45 0 90 53 45 8 0 101 59 26 2 0 113 99 60 45 10 0 84 50 0 85 55 13 0 128 98 51 34 32 15 0 59 56 13 0 90 70 24 0 123 105 88 39 31 0 96 61 38 5 0 45 0 
+Nombre de noeuds : 1589860
+Temps de résolution: 180.6269337900012s
+
+---------- Instances_ULS/Instance120.1.txt ----------
+Valeur de la relaxation linéaire calculée : 78363.0
+Status de la résolution: TEMPS LIMITE et SOLUTION REALISABLE CALCULEE
+Valeur de la fonction objectif de la solution calculée : 76416.0
+Écart % avec la relaxation linéaire : -2.484590942153823%
+Mois de production :
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 
+Quantités produites :
+135 0 0 0 0 125 0 0 0 0 160 0 0 0 0 0 139 0 0 0 0 139 0 0 0 0 0 86 0 0 168 0 0 0 0 0 155 0 0 0 115 0 0 0 112 0 0 0 0 103 0 0 0 102 0 0 0 0 147 0 0 0 0 145 0 0 0 0 141 0 0 0 0 75 0 0 137 0 0 0 0 118 0 0 0 0 0 126 0 0 0 0 100 0 0 0 0 0 186 0 0 0 0 0 0 160 0 0 0 106 0 0 0 184 0 0 0 0 0 0 
+Quantités stockées :
+130 92 66 19 0 92 89 53 19 0 128 84 58 25 13 0 101 63 18 14 0 94 80 54 36 24 0 44 2 0 118 84 46 43 24 0 108 61 16 0 80 62 49 0 98 67 59 22 0 54 17 5 0 77 52 49 26 0 126 111 65 26 0 118 89 55 9 0 97 56 31 2 0 62 26 0 92 55 44 42 0 90 50 47 13 12 0 96 65 44 21 0 66 39 38 22 16 0 144 140 98 70 63 33 0 110 92 49 0 82 40 19 0 137 99 91 84 44 9 0 
+Nombre de noeuds : 154548
+Temps de résolution: 180.69419786800063s
+
+---------- Instances_ULS/Instance120.2.txt ----------
+Valeur de la relaxation linéaire calculée : 69254.0
+Status de la résolution: TEMPS LIMITE et SOLUTION REALISABLE CALCULEE
+Valeur de la fonction objectif de la solution calculée : 72823.0
+Écart % avec la relaxation linéaire : 5.1534929390360125%
+Mois de production :
+1 0 0 0 0 1 0 0 1 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 1 0 0 0 
+Quantités produites :
+105 0 0 0 0 114 0 0 70 0 0 138 0 0 0 0 0 129 0 0 205 0 0 0 0 0 0 207 0 0 0 0 0 0 0 110 0 0 0 0 0 164 0 0 0 0 0 195 0 0 0 0 0 145 0 0 0 0 0 113 0 0 0 0 93 0 0 137 0 0 0 127 0 0 0 0 173 0 0 0 0 0 0 200 0 0 0 0 0 0 0 0 0 108 0 0 0 0 160 0 0 0 0 0 63 0 0 0 66 0 175 0 0 0 0 0 101 0 0 0 
+Quantités stockées :
+85 70 29 26 0 71 38 0 67 18 0 96 81 56 43 17 0 81 38 0 161 121 116 103 54 6 0 158 131 122 98 63 62 25 0 82 79 52 47 2 0 137 104 97 64 37 0 149 111 85 45 13 0 96 89 65 21 19 0 91 88 41 18 0 69 27 0 87 53 30 0 85 35 10 7 0 146 100 93 80 39 5 0 187 146 143 128 92 51 33 30 9 0 70 39 27 1 0 125 110 71 56 41 0 48 34 9 0 16 0 134 128 82 55 46 0 86 37 24 0 
+Nombre de noeuds : 159231
+Temps de résolution: 180.82977356099946s
+
+---------- Instances_ULS/Instance120.3.txt ----------
+Valeur de la relaxation linéaire calculée : 87923.0
+Status de la résolution: TEMPS LIMITE et SOLUTION REALISABLE CALCULEE
+Valeur de la fonction objectif de la solution calculée : 87961.0
+Écart % avec la relaxation linéaire : 0.0432196353627606%
+Mois de production :
+1 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 
+Quantités produites :
+167 0 0 0 0 0 0 0 189 0 0 0 0 175 0 0 0 0 0 0 0 0 0 0 0 146 0 0 0 0 0 214 0 0 0 0 0 179 0 0 0 0 0 151 0 0 0 0 0 117 0 0 0 134 0 0 0 0 0 131 0 0 0 0 103 0 0 0 0 179 0 0 0 0 0 0 0 158 0 0 0 0 0 219 0 0 0 0 0 0 0 0 201 0 0 0 0 0 0 0 0 0 193 0 0 0 0 0 0 94 0 0 0 224 0 0 0 0 0 0 
+Quantités stockées :
+139 101 72 69 20 18 7 0 140 95 48 8 0 165 124 119 82 81 76 41 40 31 27 14 0 109 73 59 35 8 0 166 130 104 64 23 0 150 102 65 23 15 0 111 70 68 35 25 0 92 72 24 0 99 70 54 24 11 0 92 48 26 12 0 72 32 12 9 0 137 127 94 86 83 35 8 0 114 89 50 37 14 0 193 147 139 132 96 77 47 27 0 169 119 104 100 74 68 41 39 14 0 166 127 86 74 38 11 0 56 35 12 0 180 137 117 84 50 30 0 
+Nombre de noeuds : 181705
+Temps de résolution: 180.5415663700005s
+
+---------- Instances_ULS/Instance120.4.txt ----------
+Valeur de la relaxation linéaire calculée : 86779.0
+Status de la résolution: TEMPS LIMITE et SOLUTION REALISABLE CALCULEE
+Valeur de la fonction objectif de la solution calculée : 84198.0
+Écart % avec la relaxation linéaire : -2.9742218739556807%
+Mois de production :
+1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+Quantités produites :
+175 0 0 0 0 0 152 0 0 0 0 0 0 196 0 0 0 0 0 0 203 0 0 0 0 0 0 135 0 0 0 0 0 0 0 123 0 0 0 0 0 0 195 0 0 0 0 0 175 0 0 0 0 0 0 203 0 0 0 0 0 0 0 155 0 0 0 0 201 0 0 0 0 0 0 0 186 0 0 0 0 0 0 142 0 0 0 0 0 0 0 0 124 0 0 0 0 0 184 0 0 0 0 232 0 0 0 0 0 0 0 0 184 0 0 0 0 0 0 0 
+Quantités stockées :
+148 112 78 51 33 0 122 89 62 47 15 2 0 148 111 110 87 38 2 0 173 136 89 56 19 5 0 88 61 58 57 56 51 11 0 114 76 70 64 60 33 0 147 100 74 29 25 0 130 80 68 66 44 26 0 156 141 95 91 63 60 16 0 115 72 41 36 0 170 163 147 133 100 51 31 0 136 104 80 61 18 11 0 132 90 83 78 62 37 32 18 0 92 74 47 40 4 1 135 109 91 41 0 184 137 109 106 88 58 20 18 0 141 108 90 64 53 50 36 0 
+Nombre de noeuds : 165780
+Temps de résolution: 180.36441105999984s
+
+---------- Instances_ULS/Instance120.5.txt ----------
+Valeur de la relaxation linéaire calculée : 97418.0
+Status de la résolution: TEMPS LIMITE et SOLUTION REALISABLE CALCULEE
+Valeur de la fonction objectif de la solution calculée : 99663.0
+Écart % avec la relaxation linéaire : 2.304502248044509%
+Mois de production :
+1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 
+Quantités produites :
+271 0 0 0 0 0 0 0 158 0 0 0 0 0 0 0 144 0 0 0 0 113 0 0 0 0 200 0 0 0 0 0 0 0 211 0 0 0 0 0 0 0 155 0 0 0 0 0 0 217 0 0 0 0 0 0 0 0 246 0 0 0 0 0 0 0 0 238 0 0 0 0 0 0 0 0 218 0 0 0 0 0 0 0 148 0 0 0 0 0 0 128 0 0 0 0 0 0 128 0 0 0 0 181 0 0 0 0 0 222 0 0 0 0 0 0 142 0 0 0 
+Quantités stockées :
+237 191 145 107 75 58 33 0 150 104 91 50 37 28 16 0 116 69 35 4 0 74 55 51 22 0 177 145 136 94 82 60 37 0 193 146 127 114 74 44 18 0 120 118 70 55 31 19 0 177 170 138 120 98 66 38 21 0 218 208 166 120 107 64 56 18 0 190 156 130 126 103 53 33 25 0 181 165 148 114 75 67 27 0 121 94 60 43 10 7 0 127 86 64 60 21 20 0 81 56 33 22 0 142 105 76 42 23 0 176 131 101 70 48 37 0 107 62 30 0 
+Nombre de noeuds : 62661
+Temps de résolution: 180.76233969699388s
+
+---------- Instances_ULS/Instance120.6.txt ----------
+Valeur de la relaxation linéaire calculée : 66760.0
+Status de la résolution: TEMPS LIMITE et SOLUTION REALISABLE CALCULEE
+Valeur de la fonction objectif de la solution calculée : 66768.0
+Écart % avec la relaxation linéaire : 0.011983223487118035%
+Mois de production :
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 
+Quantités produites :
+107 0 0 0 0 133 0 0 0 0 90 0 0 0 91 0 0 0 71 0 0 131 0 0 0 0 144 0 0 0 113 0 0 0 0 99 0 0 0 0 119 0 0 0 119 0 0 0 0 92 0 0 0 80 0 0 0 92 0 0 0 79 0 0 109 0 0 0 0 0 99 0 0 93 0 0 0 0 133 0 0 0 0 70 0 0 133 0 0 0 0 136 0 0 0 96 0 0 168 0 0 0 0 151 0 0 0 0 0 0 97 0 0 75 0 0 163 0 0 0 
+Quantités stockées :
+84 76 55 27 0 111 66 51 6 0 50 34 24 0 87 60 21 0 56 25 0 102 96 53 4 0 98 66 46 0 79 64 43 25 0 49 19 18 8 0 71 56 32 0 97 80 48 9 0 66 61 15 0 73 35 18 0 53 30 9 0 59 28 0 63 59 32 13 10 0 51 21 0 53 28 18 2 0 86 69 38 1 0 24 14 0 106 56 51 46 0 105 55 39 0 48 16 0 118 102 75 30 0 127 113 84 43 33 11 0 68 42 0 28 24 0 120 72 46 0 
+Nombre de noeuds : 123751
+Temps de résolution: 180.6612961589999s
+
+---------- Instances_ULS/Instance120.7.txt ----------
+Valeur de la relaxation linéaire calculée : 84957.0
+Status de la résolution: TEMPS LIMITE et SOLUTION REALISABLE CALCULEE
+Valeur de la fonction objectif de la solution calculée : 82731.0
+Écart % avec la relaxation linéaire : -2.620149016561319%
+Mois de production :
+1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 0 
+Quantités produites :
+113 0 0 0 0 187 0 0 0 0 0 186 0 0 0 0 0 0 71 0 0 154 0 0 0 0 207 0 0 0 0 0 0 0 100 0 0 0 0 0 138 0 0 0 159 0 0 0 0 157 0 0 0 0 0 107 0 0 0 0 0 0 156 0 0 0 0 136 0 0 0 171 0 0 0 0 0 165 0 0 0 0 0 85 0 0 168 0 0 0 0 0 181 0 0 0 0 0 0 0 110 0 0 0 0 149 0 0 0 0 0 133 0 0 0 0 140 0 0 0 
+Quantités stockées :
+92 60 37 3 0 140 106 72 27 17 0 141 123 77 31 23 15 0 52 26 0 127 91 56 31 0 161 141 112 72 53 36 3 0 79 76 63 46 26 0 95 54 42 0 118 98 69 44 0 125 111 94 74 34 0 84 56 44 40 25 4 0 118 83 39 7 0 118 71 44 0 140 108 96 51 19 0 141 95 89 45 1 0 57 45 0 123 89 54 45 28 0 131 93 89 77 49 13 3 0 92 54 52 50 0 124 78 46 22 1 0 98 64 44 37 0 95 83 37 0 
+Nombre de noeuds : 156117
+Temps de résolution: 180.72869919500226s
+
+---------- Instances_ULS/Instance120.8.txt ----------
+Valeur de la relaxation linéaire calculée : 72070.0
+Status de la résolution: TEMPS LIMITE et SOLUTION REALISABLE CALCULEE
+Valeur de la fonction objectif de la solution calculée : 77951.0
+Écart % avec la relaxation linéaire : 8.160122103510476%
+Mois de production :
+1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+Quantités produites :
+157 0 0 0 0 173 0 0 0 0 0 0 0 180 0 0 0 0 0 0 122 0 0 0 0 0 0 246 0 0 0 0 0 0 0 0 0 0 0 160 0 0 0 0 193 0 0 0 0 0 0 0 125 0 0 0 0 0 0 144 0 0 0 0 209 0 0 0 0 0 0 0 0 0 0 88 0 175 0 0 0 0 0 0 0 168 0 0 0 0 0 0 0 84 0 0 0 0 101 0 0 0 0 196 0 0 0 0 0 0 0 0 0 0 129 0 0 0 0 0 
+Quantités stockées :
+154 108 59 37 0 155 139 109 92 83 39 31 0 153 117 114 75 54 25 0 84 72 67 64 55 14 0 241 196 151 105 104 93 74 62 34 17 10 0 124 79 75 32 0 149 147 99 75 73 23 12 0 105 79 57 46 41 12 0 106 99 68 43 0 169 155 126 89 86 63 55 44 29 15 1 40 0 161 125 119 69 67 45 21 0 143 106 57 46 30 22 16 0 61 55 50 35 0 100 64 59 21 0 174 165 161 114 109 66 53 43 33 5 0 84 68 32 23 22 0 
+Nombre de noeuds : 171567 
+Temps de résolution: 180.65583474999585s
+
+---------- Instances_ULS/Instance120.9.txt ----------
+Valeur de la relaxation linéaire calculée : 90633.0
+Status de la résolution: TEMPS LIMITE et SOLUTION REALISABLE CALCULEE
+Valeur de la fonction objectif de la solution calculée : 89779.0
+Écart % avec la relaxation linéaire : -0.9422616486268799%
+Mois de production :
+1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 
+Quantités produites :
+146 0 0 0 0 0 0 219 0 0 0 0 0 0 208 0 0 0 0 0 0 193 0 0 0 0 0 142 0 0 0 166 0 0 0 0 0 134 0 0 0 0 127 0 0 0 0 0 149 0 0 0 0 0 183 0 0 0 0 0 0 177 0 0 0 0 0 0 149 0 0 0 0 0 110 0 0 0 0 0 135 0 0 0 0 0 179 0 0 0 0 0 0 104 0 0 0 0 215 0 0 0 0 0 0 132 0 0 0 0 147 0 0 0 0 0 101 0 0 0 
+Quantités stockées :
+125 84 68 57 39 2 0 173 150 113 65 44 19 0 174 151 106 72 53 9 0 162 124 86 42 15 0 99 75 44 0 133 106 65 26 4 0 94 70 45 33 0 97 74 51 18 7 0 101 94 44 38 3 0 140 115 92 61 51 9 0 145 108 93 67 61 23 0 120 111 82 52 11 0 68 37 36 22 15 0 126 89 70 63 22 0 158 134 110 67 32 16 0 80 31 23 22 0 184 154 108 62 48 24 0 118 75 32 12 0 97 72 68 37 7 0 82 50 34 0 
+Nombre de noeuds : 225220
+Temps de résolution: 180.71789445999457s
+
+---------- Instances_ULS/Instance120.10.txt ----------
+Valeur de la relaxation linéaire calculée : 86564.0
+Status de la résolution: TEMPS LIMITE et SOLUTION REALISABLE CALCULEE
+Valeur de la fonction objectif de la solution calculée : 90334.0
+Écart % avec la relaxation linéaire : 4.355159188577238%
+Mois de production :
+1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 
+Quantités produites :
+166 0 0 0 0 0 0 163 0 0 0 0 0 0 0 0 0 111 0 0 0 126 0 0 0 0 135 0 0 0 0 225 0 0 0 0 0 0 0 132 0 0 0 0 145 0 0 0 0 159 0 0 0 0 0 237 0 0 0 0 0 0 122 0 0 0 0 81 0 0 0 115 0 0 0 149 0 0 0 0 122 0 0 0 222 0 0 0 0 0 0 0 0 210 0 0 0 0 0 0 88 0 236 0 0 0 0 0 0 0 154 0 0 0 0 0 73 0 0 0 
+Quantités stockées :
+124 107 99 81 54 10 0 139 116 103 72 63 37 22 17 1 0 78 54 36 0 90 86 58 15 0 102 61 50 19 0 198 182 133 93 66 59 45 0 90 53 45 8 0 101 59 26 2 0 113 99 60 45 10 0 201 167 117 85 55 13 0 96 66 19 2 0 64 49 3 0 72 59 20 0 103 79 35 17 0 73 65 34 0 187 164 131 126 83 38 32 25 0 183 158 115 72 48 41 0 44 0 208 164 149 121 79 51 19 0 109 83 33 32 27 0 29 25 12 0 
+Nombre de noeuds : 171130
+Temps de résolution: 180.67088212799717s
+
+---------- Instances_ULS/Toy_Instance.txt ----------
+Valeur de la relaxation linéaire calculée : 1788.0
+Status de la résolution: OPTIMAL
+Valeur de la fonction objectif de la solution calculée : 1788.0
+Écart % avec la relaxation linéaire : 0.0%
+Mois de production :
+1 0 0 1 0 0 0 
+Quantités produites :
+70 0 0 106 0 0 0 
+Quantités stockées :
+40 15 0 59 25 15 0 
+Nombre de noeuds : 3
+Temps de résolution: 0.06495569500111742s
