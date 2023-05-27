@@ -67,7 +67,7 @@ def resolve_modele(type, nbPeriodes, demandes, couts, cfixes, cstock):
 
     # Variables
     y = [model.add_var(name="Y" + str(i), lb=0, ub=1, var_type=BINARY) for i in range(nbPeriodes)]
-    x = [[model.add_var(name="x(" + str(i) + "," + str(j) + ")", lb=0, ub=1, var_type=BINARY) for i in range(nbPeriodes)] for j in range(nbPeriodes)]
+    x = [[model.add_var(name="X(" + str(i) + "," + str(j) + ")", lb=0, ub=1, var_type=BINARY) for i in range(nbPeriodes)] for j in range(nbPeriodes)]
 
     #Fonction objectif
     model.objective = minimize(xsum(couts[i] * x[i][j] * demandes[j] for j in range(nbPeriodes) for i in range(nbPeriodes)) + xsum(cfixes[i] * y[i] for i in range(nbPeriodes)) + xsum(cstock * x[i][j] * (j - i) * demandes[j] for i in range(nbPeriodes) for j in range(i+1, nbPeriodes)))
@@ -78,7 +78,7 @@ def resolve_modele(type, nbPeriodes, demandes, couts, cfixes, cstock):
         model.add_constr(xsum(x[i][j] * demandes[j] for i in range(j+1)) >= demandes[j])
 
     for i in range (nbPeriodes):
-        model.add_constr(xsum(x[i][j] * demandes[i] for j in range(i, nbPeriodes)) <= M* y[i])
+        model.add_constr(xsum(x[i][j] * demandes[j] for j in range(i, nbPeriodes)) <= M* y[i])
         
     model.write("model2.lp")
 
